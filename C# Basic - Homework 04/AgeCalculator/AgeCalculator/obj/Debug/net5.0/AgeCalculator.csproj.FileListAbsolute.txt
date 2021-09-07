@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\ref\AgeCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\bin\Debug\net5.0\AgeCalculator.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\ref\AgeCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\AgeCalculator\AgeCalculator\obj\Debug\net5.0\AgeCalculator.genruntimeconfig.cache

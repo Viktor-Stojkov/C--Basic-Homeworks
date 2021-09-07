@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find Sentence As Input/1.0.0": {
+        "runtime": {
+          "Find Sentence As Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find Sentence As Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

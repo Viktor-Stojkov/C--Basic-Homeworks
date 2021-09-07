@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\ref\Homework RealCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\bin\Debug\net5.0\Homework RealCalculator.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\ref\Homework RealCalculator.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework RealCalculator\obj\Debug\net5.0\Homework RealCalculator.genruntimeconfig.cache

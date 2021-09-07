@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\ref\Homework SwapNumbers.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\bin\Debug\net5.0\Homework SwapNumbers.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\ref\Homework SwapNumbers.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework SwapNumbers\obj\Debug\net5.0\Homework SwapNumbers.genruntimeconfig.cache

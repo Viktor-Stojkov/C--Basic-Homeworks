@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.exe
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\ref\WorkShop02.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\bin\Debug\net5.0\WorkShop02.pdb
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\ref\WorkShop02.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.pdb
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop02\obj\Debug\net5.0\WorkShop02.genruntimeconfig.cache

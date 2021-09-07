@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.exe
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\ref\WorkShop04 - ATM.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\bin\Debug\net5.0\WorkShop04 - ATM.pdb
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\ref\WorkShop04 - ATM.dll
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.pdb
+C:\Users\vices\Desktop\C#\C# - Basic\Class06 - Workshop\WorkShop04 - ATM\obj\Debug\net5.0\WorkShop04 - ATM.genruntimeconfig.cache

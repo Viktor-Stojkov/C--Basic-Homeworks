@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\ref\Find Sentence As Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\bin\Debug\net5.0\Find Sentence As Input.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\ref\Find Sentence As Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Find Sentence As Input\obj\Debug\net5.0\Find Sentence As Input.genruntimeconfig.cache

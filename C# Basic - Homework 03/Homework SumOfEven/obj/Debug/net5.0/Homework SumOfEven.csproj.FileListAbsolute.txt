@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\ref\Homework SumOfEven.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\bin\Debug\net5.0\Homework SumOfEven.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\ref\Homework SumOfEven.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Homework SumOfEven\obj\Debug\net5.0\Homework SumOfEven.genruntimeconfig.cache

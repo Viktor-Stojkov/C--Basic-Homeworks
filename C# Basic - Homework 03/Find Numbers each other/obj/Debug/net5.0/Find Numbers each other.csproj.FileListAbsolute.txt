@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\ref\Find Numbers each other.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\bin\Debug\net5.0\Find Numbers each other.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\ref\Find Numbers each other.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\Find Numbers each other\obj\Debug\net5.0\Find Numbers each other.genruntimeconfig.cache

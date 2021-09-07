@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\ref\Reverse Order From Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\bin\Debug\net5.0\Reverse Order From Input.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\ref\Reverse Order From Input.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Reverse Order From Input\obj\Debug\net5.0\Reverse Order From Input.genruntimeconfig.cache

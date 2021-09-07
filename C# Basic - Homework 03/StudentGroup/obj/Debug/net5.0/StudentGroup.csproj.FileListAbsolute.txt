@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\ref\StudentGroup.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\bin\Debug\net5.0\StudentGroup.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\ref\StudentGroup.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 03\StudentGroup\obj\Debug\net5.0\StudentGroup.genruntimeconfig.cache

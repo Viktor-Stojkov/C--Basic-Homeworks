@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\ref\Homework 03.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\bin\Debug\net5.0\Homework 03.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\ref\Homework 03.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Homework 03\obj\Debug\net5.0\Homework 03.genruntimeconfig.cache

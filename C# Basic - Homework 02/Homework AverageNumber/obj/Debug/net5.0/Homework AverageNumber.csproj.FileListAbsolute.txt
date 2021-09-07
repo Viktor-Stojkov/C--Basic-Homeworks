@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\ref\Homework AverageNumber.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\bin\Debug\net5.0\Homework AverageNumber.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\ref\Homework AverageNumber.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework AverageNumber\obj\Debug\net5.0\Homework AverageNumber.genruntimeconfig.cache

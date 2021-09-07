@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\ref\Sum, Substract, Multiplication, Division-Method.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\bin\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\ref\Sum, Substract, Multiplication, Division-Method.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 04\Sum, Substract, Multiplication, Division-Method\obj\Debug\net5.0\Sum, Substract, Multiplication, Division-Method.genruntimeconfig.cache

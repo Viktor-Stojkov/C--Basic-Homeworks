@@ -1,0 +1,16 @@
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.csprojAssemblyReference.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.AssemblyInfo.cs
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.exe
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.deps.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.runtimeconfig.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.runtimeconfig.dev.json
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\ref\Homework FindStatistics.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\bin\Debug\net5.0\Homework FindStatistics.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\ref\Homework FindStatistics.dll
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.pdb
+C:\Users\vices\Desktop\C#\C# - Basic Homework\C# Basic - Homework 02\Homework FindStatistics\obj\Debug\net5.0\Homework FindStatistics.genruntimeconfig.cache
