@@ -6,3 +6,13 @@ C:\Users\Danilo Borozan\Desktop\Homework06\Task04-Classes\obj\Debug\netcoreapp3.
 C:\Users\Danilo Borozan\Desktop\Homework06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.csproj.CoreCompileInputs.cache
 C:\Users\Danilo Borozan\Desktop\Homework06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.dll
 C:\Users\Danilo Borozan\Desktop\Homework06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.pdb
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\bin\Debug\netcoreapp3.1\Task04-Classes.deps.json
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\bin\Debug\netcoreapp3.1\Task04-Classes.dll
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\bin\Debug\netcoreapp3.1\Task04-Classes.pdb
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.AssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.dll
+C:\Users\vices\Desktop\SEDC\C#\C# - Basic Homework\C--Basic-Homeworks\C# Basic - Homework 06\Task04-Classes\obj\Debug\netcoreapp3.1\Task04-Classes.pdb

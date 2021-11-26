@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Exercise\\Exercise.csproj": {}
+    "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj": {
+    "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\vices\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vices\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +58,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Exercise\\Exercise.csproj": {
+    "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Exercise\\Exercise.csproj",
-        "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Exercise\\obj\\",
+        "projectPath": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Exercise\\Exercise.csproj",
+        "packagesPath": "C:\\Users\\vices\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vices\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj"
+              "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\vices\\Desktop\\SEDC\\C#\\C# - Basic Homework\\C--Basic-Homeworks\\C# Basic - Homework 07\\Entities\\Entities.csproj"
               }
             }
           }
@@ -112,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
